@@ -35,6 +35,7 @@ export function Header() {
 					mr="2"
 				></IconButton>
 			)}
+
 			<Logo />
 
 			{/* Só mostra o componente SearchBox quando a tela estiver no tamanho lg, de acordo com o que foi configurado em useBreakpointValue */}
